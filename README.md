@@ -1,7 +1,7 @@
 # 🚧 UK Road Hazard Estimation using Weather API and Accident Data (STATS19) in R
 
 *Notes:*
-This project was conducted as part of the TDS coursework at the University of Leeds (2022–2023).
+This project was conducted as part of the Transportation Data Science coursework at the University of Leeds (2022–2023).
 This model has room for improvement and will be updated soon! A Python version is also in progress.
 
 
